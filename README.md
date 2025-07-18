@@ -1,3 +1,5 @@
+# 更多场景prompt请移步repo：https://github.com/NeekChaw/awesome-prompt
+
 # RIPER-5
 
 ## 步骤1提示词
