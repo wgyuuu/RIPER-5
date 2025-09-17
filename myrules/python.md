@@ -1,1 +1,3 @@
+# python指令使用规范
+
 python项目的python 和 pip 指令，使用uv run python xxx 和 uv pip xxx。
